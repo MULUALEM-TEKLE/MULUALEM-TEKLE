@@ -33,9 +33,11 @@ body {
 }
 .font-weight-heavy {
   font-weight: 600 !important;
+  font-size: 18spx;
 }
 .font-weight-heavier {
   font-weight: 800 !important;
+  font-size: 24px;
 }
 .font-weight-heaviest {
   font-weight: 900 !important;
@@ -44,6 +46,36 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+a {
+  color: transparent;
+  text-decoration: none;
+  border: transparent;
+}
+i {
+  text-decoration: none;
+  border: transparent;
+}
+
+a:hover,
+a::after,
+a:visited,
+a:focus,
+a:link {
+  color: transparent !important;
+  text-decoration: none !important;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+  text-transform: uppercase;
+}
+a,
+button,
+input,
+select {
+  pointer-events: auto;
 }
 
 
