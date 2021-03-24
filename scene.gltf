@@ -1,1 +1,2697 @@
-{"scenes":[{"nodes":[0]}],"nodes":[{"name":"Untitled","children":[1,2,3,4],"extensions":{"SPE_node_3d":{"uuid":"5051D73F-991E-49EE-967D-4F3A28AF2740","type":"scene"}}},{"name":"corner thingirs","translation":[0,0,0],"rotation":[0,0,0,1],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"7F5438F8-53A4-4008-B3B3-536ACE9E2705","type":"emtpy_object","visible":true,"interaction":0,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]}},"children":[5,6,7,8]},{"name":"text","translation":[0,0,0],"rotation":[0,-0.26723837607825696,0,0.963630453208623],"scale":[2.0377966174710322,2.0377966174710322,2.0377966174710322],"extensions":{"SPE_node_3d":{"uuid":"8054F048-CF9E-4A29-9FF5-E4D17C272F46","type":"emtpy_object","visible":true,"interaction":1,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]}},"children":[9,10,11]},{"name":"Default Camera","camera":0,"translation":[-7.467315976592003e-21,6.123233995736766e-14,1000],"rotation":[-3.061616997868383e-17,-3.733657988296002e-24,-1.143103076119411e-40,1],"extensions":{"SPE_node_3d":{"uuid":"58505056-2970-4902-8618-9017547E263F","type":"camera","visible":true,"interaction":2}},"children":[12]},{"name":"Default Ambient Light","extensions":{"KHR_lights_punctual":{"light":0},"SPE_node_3d":{"uuid":"58B75BDB-1217-4099-9C3B-4DAC396F0AA9","type":"light","visible":true}}},{"name":"Sphere","translation":[250,-250,250],"rotation":[0,0,0,1],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"4AA63924-C40B-4171-92B0-627C1013FA85","type":"mesh_3d","visible":true,"interaction":3,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":true,"receiveShadow":true,"isCloner":false}},"mesh":0},{"name":"Cube","translation":[-250,250,250],"rotation":[0.30303399588835844,0.33640044807279773,-0.26878128910985344,0.8501539592901988],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"61249E5A-D23A-4C75-9716-2104952769BA","type":"mesh_3d","visible":true,"interaction":4,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":true,"receiveShadow":true,"isCloner":false}},"mesh":1},{"name":"Pyramid","translation":[250,250,-250],"rotation":[0.3144746886074361,0.24750988376535205,-0.07567136543133487,0.9133008114074329],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"33275B1E-2FAD-4544-96F0-587182BC6374","type":"mesh_3d","visible":true,"interaction":5,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":true,"receiveShadow":true,"isCloner":false}},"mesh":2},{"name":"Cylinder","translation":[-250,-257,-250],"rotation":[0.4329438311341434,0.05236148168676619,-0.2361873807088412,0.868350986359982],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"479623C2-FE52-4455-B3D6-13AD20A53368","type":"mesh_3d","visible":true,"interaction":6,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":true,"receiveShadow":true,"isCloner":false}},"mesh":3},{"name":"X","translation":[-80.49999999999994,0,50],"rotation":[0,0,0,1],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"51DAD017-6AFD-419D-825A-7ACB15A04A5D","type":"textframe","visible":true,"interaction":7,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":false,"receiveShadow":false,"isCloner":false,"textData":{"object":{"uuid":"51DAD017-6AFD-419D-825A-7ACB15A04A5D","objectType":"TextFrame","name":"X","matrix":[1,0,0,0,0,1,0,0,0,0,1,0,-80.49999999999994,0,50,1],"layers":1,"userData":{"textFrame":{"hexColor":8978285,"opacity":1,"visible":true,"fontSize":75,"lineHeight":1.5,"letterSpacing":1,"fontFamily":"bodoni_48_bold","textTransform":1,"horizontalAlignment":1,"verticalAlignment":2,"LOD":16,"maxLineSize":85,"textOrigin":{"x":-42.5,"y":64,"z":0},"textLines":[{"message":[{"metadata":{"version":4.5,"type":"Object","generator":"Object3D.toJSON"},"geometries":[{"uuid":"9C29EEF0-BFED-4F2A-AFDC-58E26A0DAA7D","type":"ShapeBufferGeometry","userData":{"type":"CharacterGeometry","parameters":{"char":"X","fontFamily":"bodoni_48_bold","letterSpacing":1,"fontSize":75,"lod":16,"resolution":1000,"charSize":48.449999999999996,"localPosition":{"x":0,"y":120.25}}},"shapes":["F4874DB0-8619-4BCC-B1C4-1604E52D733A"],"curveSegments":16}],"materials":[{"uuid":"824B0EBA-6FF3-4259-A55B-6F1055E22062","type":"MeshBasicMaterial","color":8978285,"side":2,"transparent":true,"depthFunc":3,"depthTest":true,"depthWrite":true,"stencilWrite":false,"stencilWriteMask":255,"stencilFunc":519,"stencilRef":0,"stencilFuncMask":255,"stencilFail":7680,"stencilZFail":7680,"stencilZPass":7680}],"shapes":[{"arcLengthDivisions":200,"type":"Shape","autoClose":false,"curves":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.171,0.006],"v2":[0.47800000000000004,0.46900000000000003]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.47800000000000004,0.46900000000000003],"v2":[0.153,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.153,1.036],"v2":[0.067,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.067,1.036],"v2":[0.067,1.042]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.067,1.042],"v2":[0.539,1.042]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.539,1.042],"v2":[0.539,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.539,1.036],"v2":[0.397,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.397,1.036],"v2":[0.624,0.646]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.624,0.646],"v2":[0.871,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.871,1.036],"v2":[0.706,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.706,1.036],"v2":[0.706,1.042]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.706,1.042],"v2":[1.0110000000000001,1.042]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.0110000000000001,1.042],"v2":[1.0110000000000001,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.0110000000000001,1.036],"v2":[0.879,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.879,1.036],"v2":[0.628,0.639]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.628,0.639],"v2":[0.994,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.994,0.006],"v2":[1.086,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.086,0.006],"v2":[1.086,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.086,0],"v2":[0.614,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.614,0],"v2":[0.614,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.614,0.006],"v2":[0.744,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.744,0.006],"v2":[0.482,0.464]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.482,0.464],"v2":[0.179,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.179,0.006],"v2":[0.35000000000000003,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.35000000000000003,0.006],"v2":[0.35000000000000003,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.35000000000000003,0],"v2":[0.017,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.017,0],"v2":[0.017,0.006]}],"currentPoint":[0,0],"uuid":"F4874DB0-8619-4BCC-B1C4-1604E52D733A","holes":[]}],"object":{"uuid":"1C6AB51C-63EF-45D4-8BD5-4942FBA4E183","type":"Mesh","layers":1,"matrix":[75,0,0,0,0,75,0,0,0,0,1,0,-42.5,-56.25,0,1],"geometry":"9C29EEF0-BFED-4F2A-AFDC-58E26A0DAA7D","material":"824B0EBA-6FF3-4259-A55B-6F1055E22062"}}],"endLine":true,"yLinePos":0,"lineHeight":1.5,"maxCharSize":75,"nextChar3DPos":{"x":82.5,"y":112.5},"align":1}],"textLinesData":[{"align":1,"endLine":true,"lineHeight":1.5,"maxCharSize":75,"yLinePos":0,"message":[{"char":"X","originalChar":"X","fontFamily":"bodoni_48_bold","letterSpacing":1,"fontSize":75,"LOD":16}]}]}},"children":[],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"interaction":{"uuid":"1017601E-08FB-48C7-BD2F-31079A25E60D"},"geometry":"E46A2012-89C3-4A8A-88EA-5DFCB12A1D2E","material":"B6B714E5-EF46-4537-81FD-8F122A76BB30"}}}},"mesh":4},{"name":"A","translation":[0,0,0],"rotation":[0,0,0,1],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"0BA020A9-E453-46FB-A8BB-2AC6FF98BFBD","type":"textframe","visible":true,"interaction":8,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":false,"receiveShadow":false,"isCloner":false,"textData":{"object":{"uuid":"0BA020A9-E453-46FB-A8BB-2AC6FF98BFBD","objectType":"TextFrame","name":"A","matrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"layers":1,"userData":{"textFrame":{"hexColor":8978285,"opacity":1,"visible":true,"fontSize":75,"lineHeight":1.5,"letterSpacing":1,"fontFamily":"bodoni_48_bold","textTransform":1,"horizontalAlignment":1,"verticalAlignment":2,"LOD":16,"maxLineSize":76,"textOrigin":{"x":-38,"y":71,"z":0},"textLines":[{"message":[{"metadata":{"version":4.5,"type":"Object","generator":"Object3D.toJSON"},"geometries":[{"uuid":"94F456C2-29E5-4FBB-966E-B152EC2FE61F","type":"ShapeBufferGeometry","userData":{"type":"CharacterGeometry","parameters":{"char":"A","fontFamily":"bodoni_48_bold","letterSpacing":1,"fontSize":75,"lod":16,"resolution":1000,"charSize":81.45,"localPosition":{"x":0,"y":127.25}}},"shapes":["8FF04B7D-FAA6-4771-8FC8-C864F1DB02EC"],"curveSegments":16}],"materials":[{"uuid":"065D3D6D-F83D-4C7C-9157-C9F81523B30E","type":"MeshBasicMaterial","color":8978285,"side":2,"transparent":true,"depthFunc":3,"depthTest":true,"depthWrite":true,"stencilWrite":false,"stencilWriteMask":255,"stencilFunc":519,"stencilRef":0,"stencilFuncMask":255,"stencilFail":7680,"stencilZFail":7680,"stencilZPass":7680}],"shapes":[{"arcLengthDivisions":200,"type":"Shape","autoClose":false,"curves":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.157,0.006],"v2":[0.275,0.34]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.275,0.34],"v2":[0.275,0.342]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.275,0.342],"v2":[0.528,1.063]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.528,1.063],"v2":[0.6,1.063]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.6,1.063],"v2":[0.968,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.968,0.006],"v2":[1.067,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.067,0.006],"v2":[1.067,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.067,0],"v2":[0.594,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.594,0],"v2":[0.594,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.594,0.006],"v2":[0.718,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.718,0.006],"v2":[0.61,0.336]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.61,0.336],"v2":[0.278,0.336]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.278,0.336],"v2":[0.163,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.163,0.006],"v2":[0.331,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.331,0.006],"v2":[0.331,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.331,0],"v2":[0.025,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.025,0],"v2":[0.025,0.006]}],"currentPoint":[0,0],"uuid":"8FF04B7D-FAA6-4771-8FC8-C864F1DB02EC","holes":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"Path","autoClose":false,"curves":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.281,0.342],"v2":[0.608,0.342]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.608,0.342],"v2":[0.45,0.8280000000000001]}],"currentPoint":[0.45,0.8280000000000001]}]}],"object":{"uuid":"D6D452BE-57B4-40D5-9DA0-CC255ACBF75D","type":"Mesh","layers":1,"matrix":[75,0,0,0,0,75,0,0,0,0,1,0,-38,-56.25,0,1],"geometry":"94F456C2-29E5-4FBB-966E-B152EC2FE61F","material":"065D3D6D-F83D-4C7C-9157-C9F81523B30E"}}],"endLine":true,"yLinePos":0,"lineHeight":1.5,"maxCharSize":75,"nextChar3DPos":{"x":81.45,"y":112.5},"align":1}],"textLinesData":[{"align":1,"endLine":true,"lineHeight":1.5,"maxCharSize":75,"yLinePos":0,"message":[{"char":"A","originalChar":"A","fontFamily":"bodoni_48_bold","letterSpacing":1,"fontSize":75,"LOD":16}]}]}},"children":[],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"interaction":{"uuid":"5D917BD5-346D-44F2-AA03-C5B26F43F6F8"},"geometry":"D43087C6-4E7E-406C-AB38-D7DCD40DB25A","material":"813127A8-BBD2-4535-B25A-AAC43305A26B"}}}},"mesh":5},{"name":"R","translation":[102.00000000000001,0,-50],"rotation":[0,0,0,1],"scale":[1,1,1],"extensions":{"SPE_node_3d":{"uuid":"1D328A1D-1022-4435-AA6B-E9BDEC38EEFE","type":"textframe","visible":true,"interaction":9,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"castShadow":false,"receiveShadow":false,"isCloner":false,"textData":{"object":{"uuid":"1D328A1D-1022-4435-AA6B-E9BDEC38EEFE","objectType":"TextFrame","name":"R","matrix":[1,0,0,0,0,1,0,0,0,0,1,0,102.00000000000001,0,-50,1],"layers":1,"userData":{"textFrame":{"hexColor":8978285,"opacity":1,"visible":true,"fontSize":75,"lineHeight":1.5,"letterSpacing":1,"fontFamily":"bodoni_48_bold","textTransform":1,"horizontalAlignment":1,"verticalAlignment":2,"LOD":16,"maxLineSize":119,"textOrigin":{"x":-59.5,"y":68.5,"z":0},"textLines":[{"message":[{"metadata":{"version":4.5,"type":"Object","generator":"Object3D.toJSON"},"geometries":[{"uuid":"F74D3B3C-795A-4BA8-8251-EB3587CBF05E","type":"ShapeBufferGeometry","userData":{"type":"CharacterGeometry","parameters":{"char":"R","fontFamily":"bodoni_48_bold","letterSpacing":1,"fontSize":75,"lod":16,"resolution":1000,"charSize":69,"localPosition":{"x":0,"y":123.75}}},"shapes":["10341A45-90D7-4C92-B123-7F6EAA1CE3A9"],"curveSegments":16}],"materials":[{"uuid":"8491BD84-3650-441B-9969-CB738B50C02D","type":"MeshBasicMaterial","color":8978285,"side":2,"transparent":true,"depthFunc":3,"depthTest":true,"depthWrite":true,"stencilWrite":false,"stencilWriteMask":255,"stencilFunc":519,"stencilRef":0,"stencilFuncMask":255,"stencilFail":7680,"stencilZFail":7680,"stencilZPass":7680}],"shapes":[{"arcLengthDivisions":200,"type":"Shape","autoClose":false,"curves":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.164,0.006],"v2":[0.164,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.164,1.036],"v2":[0.025,1.036]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.025,1.036],"v2":[0.025,1.042]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.025,1.042],"v2":[0.511,1.042]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.511,1.042],"v1":[0.742,1.042],"v2":[0.9,0.965],"v3":[0.9,0.785]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.9,0.785],"v1":[0.9,0.624],"v2":[0.786,0.55],"v3":[0.589,0.535]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.589,0.535],"v1":[1.04,0.532],"v2":[0.768,0.004],"v3":[0.9390000000000001,0.004]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.9390000000000001,0.004],"v1":[0.968,0.004],"v2":[0.994,0.014],"v3":[1.014,0.022]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[1.014,0.022],"v2":[1.0170000000000001,0.017]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[1.0170000000000001,0.017],"v1":[0.994,0.004],"v2":[0.933,-0.011],"v3":[0.85,-0.011]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.85,-0.011],"v1":[0.47100000000000003,-0.011],"v2":[0.8170000000000001,0.532],"v3":[0.47500000000000003,0.532]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.47500000000000003,0.532],"v2":[0.378,0.532]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.378,0.532],"v2":[0.378,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.378,0.006],"v2":[0.517,0.006]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.517,0.006],"v2":[0.517,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.517,0],"v2":[0.025,0]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.025,0],"v2":[0.025,0.006]}],"currentPoint":[0,0],"uuid":"10341A45-90D7-4C92-B123-7F6EAA1CE3A9","holes":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"Path","autoClose":false,"curves":[{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.378,1.036],"v2":[0.378,0.538]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"LineCurve","v1":[0.378,0.538],"v2":[0.47500000000000003,0.538]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.47500000000000003,0.538],"v1":[0.608,0.538],"v2":[0.678,0.619],"v3":[0.678,0.785]},{"metadata":{"version":4.5,"type":"Curve","generator":"Curve.toJSON"},"arcLengthDivisions":200,"type":"CubicBezierCurve","v0":[0.678,0.785],"v1":[0.678,0.9500000000000001],"v2":[0.608,1.036],"v3":[0.47500000000000003,1.036]}],"currentPoint":[0.47500000000000003,1.036]}]}],"object":{"uuid":"E3B1EEAF-9799-4849-A8C1-1C52B6E41A40","type":"Mesh","layers":1,"matrix":[75,0,0,0,0,75,0,0,0,0,1,0,-59.5,-55.25,0,1],"geometry":"F74D3B3C-795A-4BA8-8251-EB3587CBF05E","material":"8491BD84-3650-441B-9969-CB738B50C02D"}}],"endLine":true,"yLinePos":0,"lineHeight":1.5,"maxCharSize":75,"nextChar3DPos":{"x":77.325,"y":112.5},"align":1}],"textLinesData":[{"align":1,"endLine":true,"lineHeight":1.5,"maxCharSize":75,"yLinePos":0,"message":[{"char":"R","originalChar":"R","fontFamily":"bodoni_48_bold","letterSpacing":1,"fontSize":75,"LOD":16}]}]}},"children":[],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"interaction":{"uuid":"353109D8-9D2D-4AE9-A461-38830F074AED"},"geometry":"95CFB769-DF6E-4BA6-A6D4-F2FC07E20C5E","material":"ECFD8F09-D090-4815-843F-E5BEC84F534F"}}}},"mesh":6},{"name":"Default Directional Light","translation":[850000,1300000,1000000],"rotation":[-0.45895513091666534,0.1367267597249462,-0.25064115022945466,0.8413352451859125],"extensions":{"KHR_lights_punctual":{"light":1},"SPE_node_3d":{"uuid":"3DA3419A-B5EC-4269-9EFD-BC3C003E5755","type":"light","visible":true,"interaction":-1,"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]}}}],"cameras":[{"type":"orthographic","orthographic":{"xmag":2134,"ymag":1142,"zfar":50000,"znear":-50000},"extensions":{"SPE_camera_options":{"zoom":1}}}],"meshes":[{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":100,"widthSegments":64,"heightSegments":64,"phiStart":0,"phiLength":6.283185307179586,"thetaStart":0,"thetaLength":3.141592653589793,"height":100,"depth":100},"type":"SphereGeometry"},"SPE_material":[0]}},{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":100,"widthSegments":1,"heightSegments":1,"depthSegments":1,"cornerRadius":5,"cornerSegments":8,"height":100,"depth":100},"type":"CubeGeometry"},"SPE_material":[1]}},{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":100,"radialSegments":4,"heightSegments":1,"cornerRadius":5,"cornerSegments":8,"openEnded":false,"height":100,"depth":100},"type":"PyramidGeometry"},"SPE_material":[2]}},{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":100,"radialSegments":64,"heightSegments":1,"openEnded":false,"thetaStart":0,"thetaLength":360,"cornerRadius":83,"cornerSegments":8,"hollow":0.66,"height":100,"depth":100,"radiusTop":50,"radiusBottom":50},"type":"CylinderGeometry"},"SPE_material":[3]}},{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":85,"depth":0,"height":128},"type":"TextFrameGeometry"},"SPE_material":[4]}},{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":76,"depth":0,"height":142},"type":"TextFrameGeometry"},"SPE_material":[5]}},{"primitives":[],"extensions":{"SPE_primitive":{"parameters":{"width":119,"depth":0,"height":135},"type":"TextFrameGeometry"},"SPE_material":[6]}}],"materials":[{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":false,"extensions":{"KHR_materials_common":{"technique":"PHYSICAL","ambient":[0.34901960784313724,0.34901960784313724,0.34901960784313724],"emission":[0,0,0],"roughness":0.3,"metalness":0,"reflectivity":0.5},"SPE_materials_options":{"side":0,"wireframe":false,"visible":true,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":16757281,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}},{"id":2,"type":"fresnel","uniforms":{"alpha":{"name":"alpha","value":0.5,"type":2},"mode":{"name":"mode","value":0,"type":1},"bias":{"name":"bias","value":0.1,"type":2},"scale":{"name":"scale","value":1,"type":1},"intensity":{"name":"intensity","value":2,"type":1},"factor":{"name":"factor","value":1,"type":1},"color":{"name":"color","value":16777215,"type":6}}}]}}},{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":false,"extensions":{"KHR_materials_common":{"technique":"BLINN","ambient":[1,0.36470588235294116,0.6666666666666666],"diffuse":[1,0.36470588235294116,0.6666666666666666],"specular":[0.06666666666666667,0.06666666666666667,0.06666666666666667],"shininess":30,"emission":[0,0,0]},"SPE_materials_options":{"side":0,"wireframe":false,"visible":true,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":16735658,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}},{"id":2,"type":"fresnel","uniforms":{"alpha":{"name":"alpha","value":0.5,"type":2},"mode":{"name":"mode","value":0,"type":1},"bias":{"name":"bias","value":0.1,"type":2},"scale":{"name":"scale","value":1,"type":1},"intensity":{"name":"intensity","value":2,"type":1},"factor":{"name":"factor","value":1,"type":1},"color":{"name":"color","value":16777215,"type":6}}}]}}},{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":false,"extensions":{"KHR_materials_common":{"technique":"BLINN","ambient":[1,0.26666666666666666,0.26666666666666666],"diffuse":[1,0.26666666666666666,0.26666666666666666],"specular":[0.06666666666666667,0.06666666666666667,0.06666666666666667],"shininess":30,"emission":[0,0,0]},"SPE_materials_options":{"side":0,"wireframe":false,"visible":true,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":16729156,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}},{"id":2,"type":"fresnel","uniforms":{"alpha":{"name":"alpha","value":0.5,"type":2},"mode":{"name":"mode","value":0,"type":1},"bias":{"name":"bias","value":0.1,"type":2},"scale":{"name":"scale","value":1,"type":1},"intensity":{"name":"intensity","value":2,"type":1},"factor":{"name":"factor","value":1,"type":1},"color":{"name":"color","value":16777215,"type":6}}}]}}},{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":false,"extensions":{"KHR_materials_common":{"technique":"BLINN","ambient":[0.6980392156862745,0.3333333333333333,1],"diffuse":[0.6980392156862745,0.3333333333333333,1],"specular":[0.06666666666666667,0.06666666666666667,0.06666666666666667],"shininess":30,"emission":[0,0,0]},"SPE_materials_options":{"side":0,"wireframe":false,"visible":true,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":11687423,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}},{"id":2,"type":"fresnel","uniforms":{"alpha":{"name":"alpha","value":0.5,"type":2},"mode":{"name":"mode","value":0,"type":1},"bias":{"name":"bias","value":0.1,"type":2},"scale":{"name":"scale","value":1,"type":1},"intensity":{"name":"intensity","value":2,"type":1},"factor":{"name":"factor","value":1,"type":1},"color":{"name":"color","value":16777215,"type":6}}}]}}},{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":true,"extensions":{"KHR_materials_common":{"technique":"CONSTANT","ambient":[1,1,1]},"SPE_materials_options":{"side":2,"wireframe":false,"visible":false,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":16777215,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}}]}}},{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":true,"extensions":{"KHR_materials_common":{"technique":"CONSTANT","ambient":[1,1,1]},"SPE_materials_options":{"side":2,"wireframe":false,"visible":false,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":16777215,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}}]}}},{"name":"","alphaMode":"BLEND","alphaCutoff":1,"doubleSided":true,"extensions":{"KHR_materials_common":{"technique":"CONSTANT","ambient":[1,1,1]},"SPE_materials_options":{"side":2,"wireframe":false,"visible":false,"shadingMode":2},"SPE_materials_layers":{"layers":[{"id":0,"type":"color","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1},"color":{"name":"color","value":16777215,"type":6}}},{"id":1,"type":"light","uniforms":{"alpha":{"name":"alpha","value":1,"type":1},"mode":{"name":"mode","value":0,"type":1}}}]}}}],"buffers":[],"bufferViews":[],"accessors":[],"images":[],"samplers":[],"textures":[],"extensions":{"SPE_export_options":{"useSplineFormat":true,"useOrbitControls":true,"bgColor":[0.16862745098039217,0.6,1],"bgAlpha":0.55,"orbitDamped":true,"orbitTarget":[5.4e-322,-5.4e-322,-5.4e-322],"cameraType":"OrthographicCamera","cameraRotate":true,"cameraPan":false,"cameraZoom":true,"viewMode":1,"viewWidth":512,"viewHeight":512,"quality":"default"},"SPE_scene_options":{"camera":{"mainCameraIndex":3},"postProcessing":{"enabled":false,"data":{"enabled":false,"bloom":{"enabled":false,"opacity":1,"blendFunction":16,"intensity":1,"luminanceThreshold":0.9,"luminanceSmoothing":0.025,"blurScale":1,"kernelSize":3},"chromaticAberration":{"enabled":false,"opacity":1,"blendFunction":13,"offset":[10,10]},"vignette":{"enabled":false,"opacity":1,"blendFunction":13,"eskil":false,"darkness":0.5,"offset":0.5},"noise":{"enabled":false,"opacity":1,"blendFunction":14},"colorAverage":{"enabled":false,"opacity":1,"blendFunction":13},"hueSaturation":{"enabled":false,"opacity":1,"blendFunction":13,"_hue":0,"hue":0,"saturation":0},"brightnessContrast":{"enabled":false,"opacity":1,"blendFunction":13,"contrast":0,"brightness":0},"depthOfField":{"enabled":false,"opacity":1,"blendFunction":13,"focalLength":0.1,"focusDistance":0,"bokehScale":1},"pixelation":{"enabled":false,"opacity":1,"blendFunction":13,"granularity":30}}}},"SPE_interactions":{"interactions":[{"uuid":"A5BA9B3D-8219-4AF9-BD1F-6A5A21E5F533"},{"uuid":"31F83A8F-F5CC-49B2-9399-72F79258040C","selectedState":1,"states":["FD1E8E0E-7561-4207-A4EF-54DBF8497E20","035F1B79-7B28-4564-A5A6-460FC00BB98B"],"events":[{"type":2,"ui":{"isCollapsed":false},"targets":[{"easing":4,"duration":1000,"delay":0,"cubicControls":[0.5,0.05,0.1,0.3],"springParameters":{"mass":1,"stiffness":80,"damping":10,"velocity":0},"object":"8054F048-CF9E-4A29-9FF5-E4D17C272F46"}]}]},{"uuid":"2252D939-45B8-4424-98A4-9531A98397C0"},{"uuid":"1CEFCB77-5864-4DDE-BADA-AFD41409C380","selectedState":0,"states":["AFA98BAD-859C-4095-A2A0-5169FB752601","7BC911D6-E5BB-4825-A041-A803398CAC3A"],"events":[{"type":2,"ui":{"isCollapsed":false},"targets":[{"easing":6,"duration":1000,"delay":0,"cubicControls":[0.5,0.05,0.1,0.3],"springParameters":{"mass":1,"stiffness":80,"damping":10,"velocity":0},"object":"4AA63924-C40B-4171-92B0-627C1013FA85","state":"7BC911D6-E5BB-4825-A041-A803398CAC3A"}]}]},{"uuid":"5C94CF90-1DF2-4524-8EA1-E4139B3AFE79","selectedState":0,"states":["4D0910EA-C565-4579-9F1F-D21CC2191984","78E409A4-DB08-464D-8885-A24DD28BE3E9"],"events":[{"type":2,"ui":{"isCollapsed":false},"targets":[{"easing":6,"duration":1000,"delay":0,"cubicControls":[0.5,0.05,0.1,0.3],"springParameters":{"mass":1,"stiffness":80,"damping":10,"velocity":0},"object":"61249E5A-D23A-4C75-9716-2104952769BA","state":"78E409A4-DB08-464D-8885-A24DD28BE3E9"}]}]},{"uuid":"CA404D60-68BA-4020-A0A0-8B7084A89A12","selectedState":0,"states":["661C3DEA-389D-461B-AD6F-CE666DACDD4B","0E20422A-0604-4562-A2E7-90F9858F8658"],"events":[{"type":2,"ui":{"isCollapsed":false},"targets":[{"easing":6,"duration":1000,"delay":0,"cubicControls":[0.5,0.05,0.1,0.3],"springParameters":{"mass":1,"stiffness":80,"damping":10,"velocity":0},"object":"33275B1E-2FAD-4544-96F0-587182BC6374","state":"0E20422A-0604-4562-A2E7-90F9858F8658"}]}]},{"uuid":"3CD685DB-6236-4682-923A-D23084C98B70","selectedState":0,"states":["B915050E-4C4D-4B2D-BF08-891CFF70FFB1","1B965FA3-A450-4440-9BE7-0C6E8FE6EE66"],"events":[{"type":2,"ui":{"isCollapsed":false},"targets":[{"easing":6,"duration":1000,"delay":0,"cubicControls":[0.5,0.05,0.1,0.3],"springParameters":{"mass":1,"stiffness":80,"damping":10,"velocity":0},"object":"479623C2-FE52-4455-B3D6-13AD20A53368","state":"1B965FA3-A450-4440-9BE7-0C6E8FE6EE66"}]}]},{"uuid":"1017601E-08FB-48C7-BD2F-31079A25E60D"},{"uuid":"5D917BD5-346D-44F2-AA03-C5B26F43F6F8"},{"uuid":"353109D8-9D2D-4AE9-A461-38830F074AED"}]},"SPE_interaction_states":{"states":{"FD1E8E0E-7561-4207-A4EF-54DBF8497E20":{"uuid":"FD1E8E0E-7561-4207-A4EF-54DBF8497E20","name":"Base State","position":[0,0,0],"rotation":[0,0,0,"XYZ"],"scale":[1,1,1],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]},"035F1B79-7B28-4564-A5A6-460FC00BB98B":{"uuid":"035F1B79-7B28-4564-A5A6-460FC00BB98B","name":"State 1","position":[0,0,0],"rotation":[0,-0.5410520681182424,0,"XYZ"],"scale":[2.0377966174710322,2.0377966174710322,2.0377966174710322],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]},"AFA98BAD-859C-4095-A2A0-5169FB752601":{"uuid":"AFA98BAD-859C-4095-A2A0-5169FB752601","name":"Base State","position":[250,-250,250],"rotation":[0,0,0,"XYZ"],"scale":[1,1,1],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":16757281}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"7BC911D6-E5BB-4825-A041-A803398CAC3A":{"uuid":"7BC911D6-E5BB-4825-A041-A803398CAC3A","name":"State 1","position":[250,-250,250],"rotation":[0,0,0,"XYZ"],"scale":[3,3,3],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":16757281}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"4D0910EA-C565-4579-9F1F-D21CC2191984":{"uuid":"4D0910EA-C565-4579-9F1F-D21CC2191984","name":"Base State","position":[-250,250,250],"rotation":[0.8676917233971322,0.42145066482793847,-0.8099730098290481,"XYZ"],"scale":[1,1,1],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":16735658}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"78E409A4-DB08-464D-8885-A24DD28BE3E9":{"uuid":"78E409A4-DB08-464D-8885-A24DD28BE3E9","name":"State 1","position":[-250,250,250],"rotation":[2.1069982677908543,-0.46235304288217416,-2.181661564992912,"XYZ"],"scale":[2,2,2],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":16735658}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"661C3DEA-389D-461B-AD6F-CE666DACDD4B":{"uuid":"661C3DEA-389D-461B-AD6F-CE666DACDD4B","name":"Base State","position":[250,250,-250],"rotation":[0.7329440444521085,0.4164413315878087,-0.3271628955023817,"XYZ"],"scale":[1,1,1],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":16729156}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"0E20422A-0604-4562-A2E7-90F9858F8658":{"uuid":"0E20422A-0604-4562-A2E7-90F9858F8658","name":"State 1","position":[250,250,-250],"rotation":[1.450600495930523,0.942883330355291,1.3962634015954638,"XYZ"],"scale":[2,2,2],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":16729156}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"B915050E-4C4D-4B2D-BF08-891CFF70FFB1":{"uuid":"B915050E-4C4D-4B2D-BF08-891CFF70FFB1","name":"Base State","position":[-250,-257,-250],"rotation":[0.897365641541918,-0.11382105428757096,-0.47629870222469667,"XYZ"],"scale":[1,1,1],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":11687423}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}},"1B965FA3-A450-4440-9BE7-0C6E8FE6EE66":{"uuid":"1B965FA3-A450-4440-9BE7-0C6E8FE6EE66","name":"State 1","position":[-250,-257,-250],"rotation":[-1.6222505285325006,0.8459262468168391,1.1634700795393336,"XYZ"],"scale":[2,2,2],"hiddenMatrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],"geometry":{"width":100,"height":100,"depth":100},"material":{"layersList":[{"id":0,"type":"color","defines":{},"uniforms":{"f0_alpha":{"value":1},"f0_mode":{"value":0},"f0_color":{"value":11687423}}},{"id":1,"type":"light","defines":{},"uniforms":{"f1_alpha":{"value":1},"f1_mode":{"value":0}}},{"id":2,"type":"fresnel","defines":{"USE_LAYER_FRESNEL":""},"uniforms":{"f2_alpha":{"value":0.5},"f2_mode":{"value":0},"f2_bias":{"value":0.1},"f2_scale":{"value":1},"f2_intensity":{"value":2},"f2_factor":{"value":1},"f2_color":{"value":16777215}}}]}}}},"SPE_textures_uuid_map":{},"KHR_lights_punctual":{"lights":[{"type":"hemispheric","name":"Default Ambient Light","color":[0.8274509803921568,0.8274509803921568,0.8274509803921568],"intensity":0.75},{"type":"directional","name":"Default Directional Light","color":[1,1,1],"intensity":0.75,"extensions":{"SPE_light_parameters":{"shadows":{"castShadow":false,"shadowmapViewRight":5,"shadowmapViewLeft":-5,"shadowmapViewTop":5,"shadowmapViewBottom":-5,"shadowmapViewNear":0.5,"shadowmapViewFar":500}}}}]}}}
+{
+  "scenes": [{ "nodes": [0] }],
+  "nodes": [
+    {
+      "name": "Untitled",
+      "children": [1, 2, 3, 4],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "5051D73F-991E-49EE-967D-4F3A28AF2740",
+          "type": "scene"
+        }
+      }
+    },
+    {
+      "name": "corner thingirs",
+      "translation": [0, 0, 0],
+      "rotation": [0, 0, 0, 1],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "7F5438F8-53A4-4008-B3B3-536ACE9E2705",
+          "type": "emtpy_object",
+          "visible": true,
+          "interaction": 0,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+        }
+      },
+      "children": [5, 6, 7, 8]
+    },
+    {
+      "name": "text",
+      "translation": [0, 0, 0],
+      "rotation": [0, -0.26723837607825696, 0, 0.963630453208623],
+      "scale": [2.0377966174710322, 2.0377966174710322, 2.0377966174710322],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "8054F048-CF9E-4A29-9FF5-E4D17C272F46",
+          "type": "emtpy_object",
+          "visible": true,
+          "interaction": 1,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+        }
+      },
+      "children": [9, 10, 11]
+    },
+    {
+      "name": "Default Camera",
+      "camera": 0,
+      "translation": [-7.467315976592003e-21, 6.123233995736766e-14, 1000],
+      "rotation": [
+        -3.061616997868383e-17,
+        -3.733657988296002e-24,
+        -1.143103076119411e-40,
+        1
+      ],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "58505056-2970-4902-8618-9017547E263F",
+          "type": "camera",
+          "visible": true,
+          "interaction": 2
+        }
+      },
+      "children": [12]
+    },
+    {
+      "name": "Default Ambient Light",
+      "extensions": {
+        "KHR_lights_punctual": { "light": 0 },
+        "SPE_node_3d": {
+          "uuid": "58B75BDB-1217-4099-9C3B-4DAC396F0AA9",
+          "type": "light",
+          "visible": true
+        }
+      }
+    },
+    {
+      "name": "Sphere",
+      "translation": [250, -250, 250],
+      "rotation": [0, 0, 0, 1],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "4AA63924-C40B-4171-92B0-627C1013FA85",
+          "type": "mesh_3d",
+          "visible": true,
+          "interaction": 3,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": true,
+          "receiveShadow": true,
+          "isCloner": false
+        }
+      },
+      "mesh": 0
+    },
+    {
+      "name": "Cube",
+      "translation": [-250, 250, 250],
+      "rotation": [
+        0.30303399588835844,
+        0.33640044807279773,
+        -0.26878128910985344,
+        0.8501539592901988
+      ],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "61249E5A-D23A-4C75-9716-2104952769BA",
+          "type": "mesh_3d",
+          "visible": true,
+          "interaction": 4,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": true,
+          "receiveShadow": true,
+          "isCloner": false
+        }
+      },
+      "mesh": 1
+    },
+    {
+      "name": "Pyramid",
+      "translation": [250, 250, -250],
+      "rotation": [
+        0.3144746886074361,
+        0.24750988376535205,
+        -0.07567136543133487,
+        0.9133008114074329
+      ],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "33275B1E-2FAD-4544-96F0-587182BC6374",
+          "type": "mesh_3d",
+          "visible": true,
+          "interaction": 5,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": true,
+          "receiveShadow": true,
+          "isCloner": false
+        }
+      },
+      "mesh": 2
+    },
+    {
+      "name": "Cylinder",
+      "translation": [-250, -257, -250],
+      "rotation": [
+        0.4329438311341434,
+        0.05236148168676619,
+        -0.2361873807088412,
+        0.868350986359982
+      ],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "479623C2-FE52-4455-B3D6-13AD20A53368",
+          "type": "mesh_3d",
+          "visible": true,
+          "interaction": 6,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": true,
+          "receiveShadow": true,
+          "isCloner": false
+        }
+      },
+      "mesh": 3
+    },
+    {
+      "name": "X",
+      "translation": [-80.49999999999994, 0, 50],
+      "rotation": [0, 0, 0, 1],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "51DAD017-6AFD-419D-825A-7ACB15A04A5D",
+          "type": "textframe",
+          "visible": true,
+          "interaction": 7,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": false,
+          "receiveShadow": false,
+          "isCloner": false,
+          "textData": {
+            "object": {
+              "uuid": "51DAD017-6AFD-419D-825A-7ACB15A04A5D",
+              "objectType": "TextFrame",
+              "name": "X",
+              "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                -80.49999999999994,
+                0,
+                50,
+                1
+              ],
+              "layers": 1,
+              "userData": {
+                "textFrame": {
+                  "hexColor": 8978285,
+                  "opacity": 1,
+                  "visible": true,
+                  "fontSize": 75,
+                  "lineHeight": 1.5,
+                  "letterSpacing": 1,
+                  "fontFamily": "bodoni_48_bold",
+                  "textTransform": 1,
+                  "horizontalAlignment": 1,
+                  "verticalAlignment": 2,
+                  "LOD": 16,
+                  "maxLineSize": 85,
+                  "textOrigin": { "x": -42.5, "y": 64, "z": 0 },
+                  "textLines": [
+                    {
+                      "message": [
+                        {
+                          "metadata": {
+                            "version": 4.5,
+                            "type": "Object",
+                            "generator": "Object3D.toJSON"
+                          },
+                          "geometries": [
+                            {
+                              "uuid": "9C29EEF0-BFED-4F2A-AFDC-58E26A0DAA7D",
+                              "type": "ShapeBufferGeometry",
+                              "userData": {
+                                "type": "CharacterGeometry",
+                                "parameters": {
+                                  "char": "X",
+                                  "fontFamily": "bodoni_48_bold",
+                                  "letterSpacing": 1,
+                                  "fontSize": 75,
+                                  "lod": 16,
+                                  "resolution": 1000,
+                                  "charSize": 48.449999999999996,
+                                  "localPosition": { "x": 0, "y": 120.25 }
+                                }
+                              },
+                              "shapes": [
+                                "F4874DB0-8619-4BCC-B1C4-1604E52D733A"
+                              ],
+                              "curveSegments": 16
+                            }
+                          ],
+                          "materials": [
+                            {
+                              "uuid": "824B0EBA-6FF3-4259-A55B-6F1055E22062",
+                              "type": "MeshBasicMaterial",
+                              "color": 8978285,
+                              "side": 2,
+                              "transparent": true,
+                              "depthFunc": 3,
+                              "depthTest": true,
+                              "depthWrite": true,
+                              "stencilWrite": false,
+                              "stencilWriteMask": 255,
+                              "stencilFunc": 519,
+                              "stencilRef": 0,
+                              "stencilFuncMask": 255,
+                              "stencilFail": 7680,
+                              "stencilZFail": 7680,
+                              "stencilZPass": 7680
+                            }
+                          ],
+                          "shapes": [
+                            {
+                              "arcLengthDivisions": 200,
+                              "type": "Shape",
+                              "autoClose": false,
+                              "curves": [
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.171, 0.006],
+                                  "v2": [
+                                    0.47800000000000004,
+                                    0.46900000000000003
+                                  ]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [
+                                    0.47800000000000004,
+                                    0.46900000000000003
+                                  ],
+                                  "v2": [0.153, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.153, 1.036],
+                                  "v2": [0.067, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.067, 1.036],
+                                  "v2": [0.067, 1.042]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.067, 1.042],
+                                  "v2": [0.539, 1.042]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.539, 1.042],
+                                  "v2": [0.539, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.539, 1.036],
+                                  "v2": [0.397, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.397, 1.036],
+                                  "v2": [0.624, 0.646]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.624, 0.646],
+                                  "v2": [0.871, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.871, 1.036],
+                                  "v2": [0.706, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.706, 1.036],
+                                  "v2": [0.706, 1.042]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.706, 1.042],
+                                  "v2": [1.0110000000000001, 1.042]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.0110000000000001, 1.042],
+                                  "v2": [1.0110000000000001, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.0110000000000001, 1.036],
+                                  "v2": [0.879, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.879, 1.036],
+                                  "v2": [0.628, 0.639]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.628, 0.639],
+                                  "v2": [0.994, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.994, 0.006],
+                                  "v2": [1.086, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.086, 0.006],
+                                  "v2": [1.086, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.086, 0],
+                                  "v2": [0.614, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.614, 0],
+                                  "v2": [0.614, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.614, 0.006],
+                                  "v2": [0.744, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.744, 0.006],
+                                  "v2": [0.482, 0.464]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.482, 0.464],
+                                  "v2": [0.179, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.179, 0.006],
+                                  "v2": [0.35000000000000003, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.35000000000000003, 0.006],
+                                  "v2": [0.35000000000000003, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.35000000000000003, 0],
+                                  "v2": [0.017, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.017, 0],
+                                  "v2": [0.017, 0.006]
+                                }
+                              ],
+                              "currentPoint": [0, 0],
+                              "uuid": "F4874DB0-8619-4BCC-B1C4-1604E52D733A",
+                              "holes": []
+                            }
+                          ],
+                          "object": {
+                            "uuid": "1C6AB51C-63EF-45D4-8BD5-4942FBA4E183",
+                            "type": "Mesh",
+                            "layers": 1,
+                            "matrix": [
+                              75,
+                              0,
+                              0,
+                              0,
+                              0,
+                              75,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              -42.5,
+                              -56.25,
+                              0,
+                              1
+                            ],
+                            "geometry": "9C29EEF0-BFED-4F2A-AFDC-58E26A0DAA7D",
+                            "material": "824B0EBA-6FF3-4259-A55B-6F1055E22062"
+                          }
+                        }
+                      ],
+                      "endLine": true,
+                      "yLinePos": 0,
+                      "lineHeight": 1.5,
+                      "maxCharSize": 75,
+                      "nextChar3DPos": { "x": 82.5, "y": 112.5 },
+                      "align": 1
+                    }
+                  ],
+                  "textLinesData": [
+                    {
+                      "align": 1,
+                      "endLine": true,
+                      "lineHeight": 1.5,
+                      "maxCharSize": 75,
+                      "yLinePos": 0,
+                      "message": [
+                        {
+                          "char": "X",
+                          "originalChar": "X",
+                          "fontFamily": "bodoni_48_bold",
+                          "letterSpacing": 1,
+                          "fontSize": 75,
+                          "LOD": 16
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "children": [],
+              "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "interaction": { "uuid": "1017601E-08FB-48C7-BD2F-31079A25E60D" },
+              "geometry": "E46A2012-89C3-4A8A-88EA-5DFCB12A1D2E",
+              "material": "B6B714E5-EF46-4537-81FD-8F122A76BB30"
+            }
+          }
+        }
+      },
+      "mesh": 4
+    },
+    {
+      "name": "A",
+      "translation": [0, 0, 0],
+      "rotation": [0, 0, 0, 1],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "0BA020A9-E453-46FB-A8BB-2AC6FF98BFBD",
+          "type": "textframe",
+          "visible": true,
+          "interaction": 8,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": false,
+          "receiveShadow": false,
+          "isCloner": false,
+          "textData": {
+            "object": {
+              "uuid": "0BA020A9-E453-46FB-A8BB-2AC6FF98BFBD",
+              "objectType": "TextFrame",
+              "name": "A",
+              "matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "layers": 1,
+              "userData": {
+                "textFrame": {
+                  "hexColor": 8978285,
+                  "opacity": 1,
+                  "visible": true,
+                  "fontSize": 75,
+                  "lineHeight": 1.5,
+                  "letterSpacing": 1,
+                  "fontFamily": "bodoni_48_bold",
+                  "textTransform": 1,
+                  "horizontalAlignment": 1,
+                  "verticalAlignment": 2,
+                  "LOD": 16,
+                  "maxLineSize": 76,
+                  "textOrigin": { "x": -38, "y": 71, "z": 0 },
+                  "textLines": [
+                    {
+                      "message": [
+                        {
+                          "metadata": {
+                            "version": 4.5,
+                            "type": "Object",
+                            "generator": "Object3D.toJSON"
+                          },
+                          "geometries": [
+                            {
+                              "uuid": "94F456C2-29E5-4FBB-966E-B152EC2FE61F",
+                              "type": "ShapeBufferGeometry",
+                              "userData": {
+                                "type": "CharacterGeometry",
+                                "parameters": {
+                                  "char": "A",
+                                  "fontFamily": "bodoni_48_bold",
+                                  "letterSpacing": 1,
+                                  "fontSize": 75,
+                                  "lod": 16,
+                                  "resolution": 1000,
+                                  "charSize": 81.45,
+                                  "localPosition": { "x": 0, "y": 127.25 }
+                                }
+                              },
+                              "shapes": [
+                                "8FF04B7D-FAA6-4771-8FC8-C864F1DB02EC"
+                              ],
+                              "curveSegments": 16
+                            }
+                          ],
+                          "materials": [
+                            {
+                              "uuid": "065D3D6D-F83D-4C7C-9157-C9F81523B30E",
+                              "type": "MeshBasicMaterial",
+                              "color": 8978285,
+                              "side": 2,
+                              "transparent": true,
+                              "depthFunc": 3,
+                              "depthTest": true,
+                              "depthWrite": true,
+                              "stencilWrite": false,
+                              "stencilWriteMask": 255,
+                              "stencilFunc": 519,
+                              "stencilRef": 0,
+                              "stencilFuncMask": 255,
+                              "stencilFail": 7680,
+                              "stencilZFail": 7680,
+                              "stencilZPass": 7680
+                            }
+                          ],
+                          "shapes": [
+                            {
+                              "arcLengthDivisions": 200,
+                              "type": "Shape",
+                              "autoClose": false,
+                              "curves": [
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.157, 0.006],
+                                  "v2": [0.275, 0.34]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.275, 0.34],
+                                  "v2": [0.275, 0.342]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.275, 0.342],
+                                  "v2": [0.528, 1.063]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.528, 1.063],
+                                  "v2": [0.6, 1.063]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.6, 1.063],
+                                  "v2": [0.968, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.968, 0.006],
+                                  "v2": [1.067, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.067, 0.006],
+                                  "v2": [1.067, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.067, 0],
+                                  "v2": [0.594, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.594, 0],
+                                  "v2": [0.594, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.594, 0.006],
+                                  "v2": [0.718, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.718, 0.006],
+                                  "v2": [0.61, 0.336]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.61, 0.336],
+                                  "v2": [0.278, 0.336]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.278, 0.336],
+                                  "v2": [0.163, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.163, 0.006],
+                                  "v2": [0.331, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.331, 0.006],
+                                  "v2": [0.331, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.331, 0],
+                                  "v2": [0.025, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.025, 0],
+                                  "v2": [0.025, 0.006]
+                                }
+                              ],
+                              "currentPoint": [0, 0],
+                              "uuid": "8FF04B7D-FAA6-4771-8FC8-C864F1DB02EC",
+                              "holes": [
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "Path",
+                                  "autoClose": false,
+                                  "curves": [
+                                    {
+                                      "metadata": {
+                                        "version": 4.5,
+                                        "type": "Curve",
+                                        "generator": "Curve.toJSON"
+                                      },
+                                      "arcLengthDivisions": 200,
+                                      "type": "LineCurve",
+                                      "v1": [0.281, 0.342],
+                                      "v2": [0.608, 0.342]
+                                    },
+                                    {
+                                      "metadata": {
+                                        "version": 4.5,
+                                        "type": "Curve",
+                                        "generator": "Curve.toJSON"
+                                      },
+                                      "arcLengthDivisions": 200,
+                                      "type": "LineCurve",
+                                      "v1": [0.608, 0.342],
+                                      "v2": [0.45, 0.8280000000000001]
+                                    }
+                                  ],
+                                  "currentPoint": [0.45, 0.8280000000000001]
+                                }
+                              ]
+                            }
+                          ],
+                          "object": {
+                            "uuid": "D6D452BE-57B4-40D5-9DA0-CC255ACBF75D",
+                            "type": "Mesh",
+                            "layers": 1,
+                            "matrix": [
+                              75,
+                              0,
+                              0,
+                              0,
+                              0,
+                              75,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              -38,
+                              -56.25,
+                              0,
+                              1
+                            ],
+                            "geometry": "94F456C2-29E5-4FBB-966E-B152EC2FE61F",
+                            "material": "065D3D6D-F83D-4C7C-9157-C9F81523B30E"
+                          }
+                        }
+                      ],
+                      "endLine": true,
+                      "yLinePos": 0,
+                      "lineHeight": 1.5,
+                      "maxCharSize": 75,
+                      "nextChar3DPos": { "x": 81.45, "y": 112.5 },
+                      "align": 1
+                    }
+                  ],
+                  "textLinesData": [
+                    {
+                      "align": 1,
+                      "endLine": true,
+                      "lineHeight": 1.5,
+                      "maxCharSize": 75,
+                      "yLinePos": 0,
+                      "message": [
+                        {
+                          "char": "A",
+                          "originalChar": "A",
+                          "fontFamily": "bodoni_48_bold",
+                          "letterSpacing": 1,
+                          "fontSize": 75,
+                          "LOD": 16
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "children": [],
+              "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "interaction": { "uuid": "5D917BD5-346D-44F2-AA03-C5B26F43F6F8" },
+              "geometry": "D43087C6-4E7E-406C-AB38-D7DCD40DB25A",
+              "material": "813127A8-BBD2-4535-B25A-AAC43305A26B"
+            }
+          }
+        }
+      },
+      "mesh": 5
+    },
+    {
+      "name": "R",
+      "translation": [102.00000000000001, 0, -50],
+      "rotation": [0, 0, 0, 1],
+      "scale": [1, 1, 1],
+      "extensions": {
+        "SPE_node_3d": {
+          "uuid": "1D328A1D-1022-4435-AA6B-E9BDEC38EEFE",
+          "type": "textframe",
+          "visible": true,
+          "interaction": 9,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "castShadow": false,
+          "receiveShadow": false,
+          "isCloner": false,
+          "textData": {
+            "object": {
+              "uuid": "1D328A1D-1022-4435-AA6B-E9BDEC38EEFE",
+              "objectType": "TextFrame",
+              "name": "R",
+              "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                102.00000000000001,
+                0,
+                -50,
+                1
+              ],
+              "layers": 1,
+              "userData": {
+                "textFrame": {
+                  "hexColor": 8978285,
+                  "opacity": 1,
+                  "visible": true,
+                  "fontSize": 75,
+                  "lineHeight": 1.5,
+                  "letterSpacing": 1,
+                  "fontFamily": "bodoni_48_bold",
+                  "textTransform": 1,
+                  "horizontalAlignment": 1,
+                  "verticalAlignment": 2,
+                  "LOD": 16,
+                  "maxLineSize": 119,
+                  "textOrigin": { "x": -59.5, "y": 68.5, "z": 0 },
+                  "textLines": [
+                    {
+                      "message": [
+                        {
+                          "metadata": {
+                            "version": 4.5,
+                            "type": "Object",
+                            "generator": "Object3D.toJSON"
+                          },
+                          "geometries": [
+                            {
+                              "uuid": "F74D3B3C-795A-4BA8-8251-EB3587CBF05E",
+                              "type": "ShapeBufferGeometry",
+                              "userData": {
+                                "type": "CharacterGeometry",
+                                "parameters": {
+                                  "char": "R",
+                                  "fontFamily": "bodoni_48_bold",
+                                  "letterSpacing": 1,
+                                  "fontSize": 75,
+                                  "lod": 16,
+                                  "resolution": 1000,
+                                  "charSize": 69,
+                                  "localPosition": { "x": 0, "y": 123.75 }
+                                }
+                              },
+                              "shapes": [
+                                "10341A45-90D7-4C92-B123-7F6EAA1CE3A9"
+                              ],
+                              "curveSegments": 16
+                            }
+                          ],
+                          "materials": [
+                            {
+                              "uuid": "8491BD84-3650-441B-9969-CB738B50C02D",
+                              "type": "MeshBasicMaterial",
+                              "color": 8978285,
+                              "side": 2,
+                              "transparent": true,
+                              "depthFunc": 3,
+                              "depthTest": true,
+                              "depthWrite": true,
+                              "stencilWrite": false,
+                              "stencilWriteMask": 255,
+                              "stencilFunc": 519,
+                              "stencilRef": 0,
+                              "stencilFuncMask": 255,
+                              "stencilFail": 7680,
+                              "stencilZFail": 7680,
+                              "stencilZPass": 7680
+                            }
+                          ],
+                          "shapes": [
+                            {
+                              "arcLengthDivisions": 200,
+                              "type": "Shape",
+                              "autoClose": false,
+                              "curves": [
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.164, 0.006],
+                                  "v2": [0.164, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.164, 1.036],
+                                  "v2": [0.025, 1.036]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.025, 1.036],
+                                  "v2": [0.025, 1.042]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.025, 1.042],
+                                  "v2": [0.511, 1.042]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "CubicBezierCurve",
+                                  "v0": [0.511, 1.042],
+                                  "v1": [0.742, 1.042],
+                                  "v2": [0.9, 0.965],
+                                  "v3": [0.9, 0.785]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "CubicBezierCurve",
+                                  "v0": [0.9, 0.785],
+                                  "v1": [0.9, 0.624],
+                                  "v2": [0.786, 0.55],
+                                  "v3": [0.589, 0.535]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "CubicBezierCurve",
+                                  "v0": [0.589, 0.535],
+                                  "v1": [1.04, 0.532],
+                                  "v2": [0.768, 0.004],
+                                  "v3": [0.9390000000000001, 0.004]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "CubicBezierCurve",
+                                  "v0": [0.9390000000000001, 0.004],
+                                  "v1": [0.968, 0.004],
+                                  "v2": [0.994, 0.014],
+                                  "v3": [1.014, 0.022]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [1.014, 0.022],
+                                  "v2": [1.0170000000000001, 0.017]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "CubicBezierCurve",
+                                  "v0": [1.0170000000000001, 0.017],
+                                  "v1": [0.994, 0.004],
+                                  "v2": [0.933, -0.011],
+                                  "v3": [0.85, -0.011]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "CubicBezierCurve",
+                                  "v0": [0.85, -0.011],
+                                  "v1": [0.47100000000000003, -0.011],
+                                  "v2": [0.8170000000000001, 0.532],
+                                  "v3": [0.47500000000000003, 0.532]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.47500000000000003, 0.532],
+                                  "v2": [0.378, 0.532]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.378, 0.532],
+                                  "v2": [0.378, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.378, 0.006],
+                                  "v2": [0.517, 0.006]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.517, 0.006],
+                                  "v2": [0.517, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.517, 0],
+                                  "v2": [0.025, 0]
+                                },
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "LineCurve",
+                                  "v1": [0.025, 0],
+                                  "v2": [0.025, 0.006]
+                                }
+                              ],
+                              "currentPoint": [0, 0],
+                              "uuid": "10341A45-90D7-4C92-B123-7F6EAA1CE3A9",
+                              "holes": [
+                                {
+                                  "metadata": {
+                                    "version": 4.5,
+                                    "type": "Curve",
+                                    "generator": "Curve.toJSON"
+                                  },
+                                  "arcLengthDivisions": 200,
+                                  "type": "Path",
+                                  "autoClose": false,
+                                  "curves": [
+                                    {
+                                      "metadata": {
+                                        "version": 4.5,
+                                        "type": "Curve",
+                                        "generator": "Curve.toJSON"
+                                      },
+                                      "arcLengthDivisions": 200,
+                                      "type": "LineCurve",
+                                      "v1": [0.378, 1.036],
+                                      "v2": [0.378, 0.538]
+                                    },
+                                    {
+                                      "metadata": {
+                                        "version": 4.5,
+                                        "type": "Curve",
+                                        "generator": "Curve.toJSON"
+                                      },
+                                      "arcLengthDivisions": 200,
+                                      "type": "LineCurve",
+                                      "v1": [0.378, 0.538],
+                                      "v2": [0.47500000000000003, 0.538]
+                                    },
+                                    {
+                                      "metadata": {
+                                        "version": 4.5,
+                                        "type": "Curve",
+                                        "generator": "Curve.toJSON"
+                                      },
+                                      "arcLengthDivisions": 200,
+                                      "type": "CubicBezierCurve",
+                                      "v0": [0.47500000000000003, 0.538],
+                                      "v1": [0.608, 0.538],
+                                      "v2": [0.678, 0.619],
+                                      "v3": [0.678, 0.785]
+                                    },
+                                    {
+                                      "metadata": {
+                                        "version": 4.5,
+                                        "type": "Curve",
+                                        "generator": "Curve.toJSON"
+                                      },
+                                      "arcLengthDivisions": 200,
+                                      "type": "CubicBezierCurve",
+                                      "v0": [0.678, 0.785],
+                                      "v1": [0.678, 0.9500000000000001],
+                                      "v2": [0.608, 1.036],
+                                      "v3": [0.47500000000000003, 1.036]
+                                    }
+                                  ],
+                                  "currentPoint": [0.47500000000000003, 1.036]
+                                }
+                              ]
+                            }
+                          ],
+                          "object": {
+                            "uuid": "E3B1EEAF-9799-4849-A8C1-1C52B6E41A40",
+                            "type": "Mesh",
+                            "layers": 1,
+                            "matrix": [
+                              75,
+                              0,
+                              0,
+                              0,
+                              0,
+                              75,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              -59.5,
+                              -55.25,
+                              0,
+                              1
+                            ],
+                            "geometry": "F74D3B3C-795A-4BA8-8251-EB3587CBF05E",
+                            "material": "8491BD84-3650-441B-9969-CB738B50C02D"
+                          }
+                        }
+                      ],
+                      "endLine": true,
+                      "yLinePos": 0,
+                      "lineHeight": 1.5,
+                      "maxCharSize": 75,
+                      "nextChar3DPos": { "x": 77.325, "y": 112.5 },
+                      "align": 1
+                    }
+                  ],
+                  "textLinesData": [
+                    {
+                      "align": 1,
+                      "endLine": true,
+                      "lineHeight": 1.5,
+                      "maxCharSize": 75,
+                      "yLinePos": 0,
+                      "message": [
+                        {
+                          "char": "R",
+                          "originalChar": "R",
+                          "fontFamily": "bodoni_48_bold",
+                          "letterSpacing": 1,
+                          "fontSize": 75,
+                          "LOD": 16
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              "children": [],
+              "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+              "interaction": { "uuid": "353109D8-9D2D-4AE9-A461-38830F074AED" },
+              "geometry": "95CFB769-DF6E-4BA6-A6D4-F2FC07E20C5E",
+              "material": "ECFD8F09-D090-4815-843F-E5BEC84F534F"
+            }
+          }
+        }
+      },
+      "mesh": 6
+    },
+    {
+      "name": "Default Directional Light",
+      "translation": [850000, 1300000, 1000000],
+      "rotation": [
+        -0.45895513091666534,
+        0.1367267597249462,
+        -0.25064115022945466,
+        0.8413352451859125
+      ],
+      "extensions": {
+        "KHR_lights_punctual": { "light": 1 },
+        "SPE_node_3d": {
+          "uuid": "3DA3419A-B5EC-4269-9EFD-BC3C003E5755",
+          "type": "light",
+          "visible": true,
+          "interaction": -1,
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+        }
+      }
+    }
+  ],
+  "cameras": [
+    {
+      "type": "orthographic",
+      "orthographic": {
+        "xmag": 2134,
+        "ymag": 1142,
+        "zfar": 50000,
+        "znear": -50000
+      },
+      "extensions": { "SPE_camera_options": { "zoom": 1 } }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": {
+            "width": 100,
+            "widthSegments": 64,
+            "heightSegments": 64,
+            "phiStart": 0,
+            "phiLength": 6.283185307179586,
+            "thetaStart": 0,
+            "thetaLength": 3.141592653589793,
+            "height": 100,
+            "depth": 100
+          },
+          "type": "SphereGeometry"
+        },
+        "SPE_material": [0]
+      }
+    },
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": {
+            "width": 100,
+            "widthSegments": 1,
+            "heightSegments": 1,
+            "depthSegments": 1,
+            "cornerRadius": 5,
+            "cornerSegments": 8,
+            "height": 100,
+            "depth": 100
+          },
+          "type": "CubeGeometry"
+        },
+        "SPE_material": [1]
+      }
+    },
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": {
+            "width": 100,
+            "radialSegments": 4,
+            "heightSegments": 1,
+            "cornerRadius": 5,
+            "cornerSegments": 8,
+            "openEnded": false,
+            "height": 100,
+            "depth": 100
+          },
+          "type": "PyramidGeometry"
+        },
+        "SPE_material": [2]
+      }
+    },
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": {
+            "width": 100,
+            "radialSegments": 64,
+            "heightSegments": 1,
+            "openEnded": false,
+            "thetaStart": 0,
+            "thetaLength": 360,
+            "cornerRadius": 83,
+            "cornerSegments": 8,
+            "hollow": 0.66,
+            "height": 100,
+            "depth": 100,
+            "radiusTop": 50,
+            "radiusBottom": 50
+          },
+          "type": "CylinderGeometry"
+        },
+        "SPE_material": [3]
+      }
+    },
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": { "width": 85, "depth": 0, "height": 128 },
+          "type": "TextFrameGeometry"
+        },
+        "SPE_material": [4]
+      }
+    },
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": { "width": 76, "depth": 0, "height": 142 },
+          "type": "TextFrameGeometry"
+        },
+        "SPE_material": [5]
+      }
+    },
+    {
+      "primitives": [],
+      "extensions": {
+        "SPE_primitive": {
+          "parameters": { "width": 119, "depth": 0, "height": 135 },
+          "type": "TextFrameGeometry"
+        },
+        "SPE_material": [6]
+      }
+    }
+  ],
+  "materials": [
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "PHYSICAL",
+          "ambient": [
+            0.34901960784313724,
+            0.34901960784313724,
+            0.34901960784313724
+          ],
+          "emission": [0, 0, 0],
+          "roughness": 0.3,
+          "metalness": 0,
+          "reflectivity": 0.5
+        },
+        "SPE_materials_options": {
+          "side": 0,
+          "wireframe": false,
+          "visible": true,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 16757281, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            },
+            {
+              "id": 2,
+              "type": "fresnel",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 0.5, "type": 2 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "bias": { "name": "bias", "value": 0.1, "type": 2 },
+                "scale": { "name": "scale", "value": 1, "type": 1 },
+                "intensity": { "name": "intensity", "value": 2, "type": 1 },
+                "factor": { "name": "factor", "value": 1, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "BLINN",
+          "ambient": [1, 0.36470588235294116, 0.6666666666666666],
+          "diffuse": [1, 0.36470588235294116, 0.6666666666666666],
+          "specular": [
+            0.06666666666666667,
+            0.06666666666666667,
+            0.06666666666666667
+          ],
+          "shininess": 30,
+          "emission": [0, 0, 0]
+        },
+        "SPE_materials_options": {
+          "side": 0,
+          "wireframe": false,
+          "visible": true,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 16735658, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            },
+            {
+              "id": 2,
+              "type": "fresnel",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 0.5, "type": 2 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "bias": { "name": "bias", "value": 0.1, "type": 2 },
+                "scale": { "name": "scale", "value": 1, "type": 1 },
+                "intensity": { "name": "intensity", "value": 2, "type": 1 },
+                "factor": { "name": "factor", "value": 1, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "BLINN",
+          "ambient": [1, 0.26666666666666666, 0.26666666666666666],
+          "diffuse": [1, 0.26666666666666666, 0.26666666666666666],
+          "specular": [
+            0.06666666666666667,
+            0.06666666666666667,
+            0.06666666666666667
+          ],
+          "shininess": 30,
+          "emission": [0, 0, 0]
+        },
+        "SPE_materials_options": {
+          "side": 0,
+          "wireframe": false,
+          "visible": true,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 16729156, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            },
+            {
+              "id": 2,
+              "type": "fresnel",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 0.5, "type": 2 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "bias": { "name": "bias", "value": 0.1, "type": 2 },
+                "scale": { "name": "scale", "value": 1, "type": 1 },
+                "intensity": { "name": "intensity", "value": 2, "type": 1 },
+                "factor": { "name": "factor", "value": 1, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "BLINN",
+          "ambient": [0.6980392156862745, 0.3333333333333333, 1],
+          "diffuse": [0.6980392156862745, 0.3333333333333333, 1],
+          "specular": [
+            0.06666666666666667,
+            0.06666666666666667,
+            0.06666666666666667
+          ],
+          "shininess": 30,
+          "emission": [0, 0, 0]
+        },
+        "SPE_materials_options": {
+          "side": 0,
+          "wireframe": false,
+          "visible": true,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 11687423, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            },
+            {
+              "id": 2,
+              "type": "fresnel",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 0.5, "type": 2 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "bias": { "name": "bias", "value": 0.1, "type": 2 },
+                "scale": { "name": "scale", "value": 1, "type": 1 },
+                "intensity": { "name": "intensity", "value": 2, "type": 1 },
+                "factor": { "name": "factor", "value": 1, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "CONSTANT",
+          "ambient": [1, 1, 1]
+        },
+        "SPE_materials_options": {
+          "side": 2,
+          "wireframe": false,
+          "visible": false,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "CONSTANT",
+          "ambient": [1, 1, 1]
+        },
+        "SPE_materials_options": {
+          "side": 2,
+          "wireframe": false,
+          "visible": false,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "",
+      "alphaMode": "BLEND",
+      "alphaCutoff": 1,
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_common": {
+          "technique": "CONSTANT",
+          "ambient": [1, 1, 1]
+        },
+        "SPE_materials_options": {
+          "side": 2,
+          "wireframe": false,
+          "visible": false,
+          "shadingMode": 2
+        },
+        "SPE_materials_layers": {
+          "layers": [
+            {
+              "id": 0,
+              "type": "color",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 },
+                "color": { "name": "color", "value": 16777215, "type": 6 }
+              }
+            },
+            {
+              "id": 1,
+              "type": "light",
+              "uniforms": {
+                "alpha": { "name": "alpha", "value": 1, "type": 1 },
+                "mode": { "name": "mode", "value": 0, "type": 1 }
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "buffers": [],
+  "bufferViews": [],
+  "accessors": [],
+  "images": [],
+  "samplers": [],
+  "textures": [],
+  "extensions": {
+    "SPE_export_options": {
+      "useSplineFormat": true,
+      "useOrbitControls": true,
+      "bgColor": [0.16862745098039217, 0.6, 1],
+      "bgAlpha": 0.55,
+      "orbitDamped": true,
+      "orbitTarget": [5.4e-322, -5.4e-322, -5.4e-322],
+      "cameraType": "OrthographicCamera",
+      "cameraRotate": true,
+      "cameraPan": false,
+      "cameraZoom": true,
+      "viewMode": 1,
+      "viewWidth": 512,
+      "viewHeight": 512,
+      "quality": "default"
+    },
+    "SPE_scene_options": {
+      "camera": { "mainCameraIndex": 3 },
+      "postProcessing": {
+        "enabled": false,
+        "data": {
+          "enabled": false,
+          "bloom": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 16,
+            "intensity": 1,
+            "luminanceThreshold": 0.9,
+            "luminanceSmoothing": 0.025,
+            "blurScale": 1,
+            "kernelSize": 3
+          },
+          "chromaticAberration": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13,
+            "offset": [10, 10]
+          },
+          "vignette": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13,
+            "eskil": false,
+            "darkness": 0.5,
+            "offset": 0.5
+          },
+          "noise": { "enabled": false, "opacity": 1, "blendFunction": 14 },
+          "colorAverage": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13
+          },
+          "hueSaturation": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13,
+            "_hue": 0,
+            "hue": 0,
+            "saturation": 0
+          },
+          "brightnessContrast": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13,
+            "contrast": 0,
+            "brightness": 0
+          },
+          "depthOfField": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13,
+            "focalLength": 0.1,
+            "focusDistance": 0,
+            "bokehScale": 1
+          },
+          "pixelation": {
+            "enabled": false,
+            "opacity": 1,
+            "blendFunction": 13,
+            "granularity": 30
+          }
+        }
+      }
+    },
+    "SPE_interactions": {
+      "interactions": [
+        { "uuid": "A5BA9B3D-8219-4AF9-BD1F-6A5A21E5F533" },
+        {
+          "uuid": "31F83A8F-F5CC-49B2-9399-72F79258040C",
+          "selectedState": 1,
+          "states": [
+            "FD1E8E0E-7561-4207-A4EF-54DBF8497E20",
+            "035F1B79-7B28-4564-A5A6-460FC00BB98B"
+          ],
+          "events": [
+            {
+              "type": 2,
+              "ui": { "isCollapsed": false },
+              "targets": [
+                {
+                  "easing": 4,
+                  "duration": 1000,
+                  "delay": 0,
+                  "cubicControls": [0.5, 0.05, 0.1, 0.3],
+                  "springParameters": {
+                    "mass": 1,
+                    "stiffness": 80,
+                    "damping": 10,
+                    "velocity": 0
+                  },
+                  "object": "8054F048-CF9E-4A29-9FF5-E4D17C272F46"
+                }
+              ]
+            }
+          ]
+        },
+        { "uuid": "2252D939-45B8-4424-98A4-9531A98397C0" },
+        {
+          "uuid": "1CEFCB77-5864-4DDE-BADA-AFD41409C380",
+          "selectedState": 0,
+          "states": [
+            "AFA98BAD-859C-4095-A2A0-5169FB752601",
+            "7BC911D6-E5BB-4825-A041-A803398CAC3A"
+          ],
+          "events": [
+            {
+              "type": 2,
+              "ui": { "isCollapsed": false },
+              "targets": [
+                {
+                  "easing": 6,
+                  "duration": 1000,
+                  "delay": 0,
+                  "cubicControls": [0.5, 0.05, 0.1, 0.3],
+                  "springParameters": {
+                    "mass": 1,
+                    "stiffness": 80,
+                    "damping": 10,
+                    "velocity": 0
+                  },
+                  "object": "4AA63924-C40B-4171-92B0-627C1013FA85",
+                  "state": "7BC911D6-E5BB-4825-A041-A803398CAC3A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "5C94CF90-1DF2-4524-8EA1-E4139B3AFE79",
+          "selectedState": 0,
+          "states": [
+            "4D0910EA-C565-4579-9F1F-D21CC2191984",
+            "78E409A4-DB08-464D-8885-A24DD28BE3E9"
+          ],
+          "events": [
+            {
+              "type": 2,
+              "ui": { "isCollapsed": false },
+              "targets": [
+                {
+                  "easing": 6,
+                  "duration": 1000,
+                  "delay": 0,
+                  "cubicControls": [0.5, 0.05, 0.1, 0.3],
+                  "springParameters": {
+                    "mass": 1,
+                    "stiffness": 80,
+                    "damping": 10,
+                    "velocity": 0
+                  },
+                  "object": "61249E5A-D23A-4C75-9716-2104952769BA",
+                  "state": "78E409A4-DB08-464D-8885-A24DD28BE3E9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "CA404D60-68BA-4020-A0A0-8B7084A89A12",
+          "selectedState": 0,
+          "states": [
+            "661C3DEA-389D-461B-AD6F-CE666DACDD4B",
+            "0E20422A-0604-4562-A2E7-90F9858F8658"
+          ],
+          "events": [
+            {
+              "type": 2,
+              "ui": { "isCollapsed": false },
+              "targets": [
+                {
+                  "easing": 6,
+                  "duration": 1000,
+                  "delay": 0,
+                  "cubicControls": [0.5, 0.05, 0.1, 0.3],
+                  "springParameters": {
+                    "mass": 1,
+                    "stiffness": 80,
+                    "damping": 10,
+                    "velocity": 0
+                  },
+                  "object": "33275B1E-2FAD-4544-96F0-587182BC6374",
+                  "state": "0E20422A-0604-4562-A2E7-90F9858F8658"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uuid": "3CD685DB-6236-4682-923A-D23084C98B70",
+          "selectedState": 0,
+          "states": [
+            "B915050E-4C4D-4B2D-BF08-891CFF70FFB1",
+            "1B965FA3-A450-4440-9BE7-0C6E8FE6EE66"
+          ],
+          "events": [
+            {
+              "type": 2,
+              "ui": { "isCollapsed": false },
+              "targets": [
+                {
+                  "easing": 6,
+                  "duration": 1000,
+                  "delay": 0,
+                  "cubicControls": [0.5, 0.05, 0.1, 0.3],
+                  "springParameters": {
+                    "mass": 1,
+                    "stiffness": 80,
+                    "damping": 10,
+                    "velocity": 0
+                  },
+                  "object": "479623C2-FE52-4455-B3D6-13AD20A53368",
+                  "state": "1B965FA3-A450-4440-9BE7-0C6E8FE6EE66"
+                }
+              ]
+            }
+          ]
+        },
+        { "uuid": "1017601E-08FB-48C7-BD2F-31079A25E60D" },
+        { "uuid": "5D917BD5-346D-44F2-AA03-C5B26F43F6F8" },
+        { "uuid": "353109D8-9D2D-4AE9-A461-38830F074AED" }
+      ]
+    },
+    "SPE_interaction_states": {
+      "states": {
+        "FD1E8E0E-7561-4207-A4EF-54DBF8497E20": {
+          "uuid": "FD1E8E0E-7561-4207-A4EF-54DBF8497E20",
+          "name": "Base State",
+          "position": [0, 0, 0],
+          "rotation": [0, 0, 0, "XYZ"],
+          "scale": [1, 1, 1],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+        },
+        "035F1B79-7B28-4564-A5A6-460FC00BB98B": {
+          "uuid": "035F1B79-7B28-4564-A5A6-460FC00BB98B",
+          "name": "State 1",
+          "position": [0, 0, 0],
+          "rotation": [0, -0.5410520681182424, 0, "XYZ"],
+          "scale": [2.0377966174710322, 2.0377966174710322, 2.0377966174710322],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+        },
+        "AFA98BAD-859C-4095-A2A0-5169FB752601": {
+          "uuid": "AFA98BAD-859C-4095-A2A0-5169FB752601",
+          "name": "Base State",
+          "position": [250, -250, 250],
+          "rotation": [0, 0, 0, "XYZ"],
+          "scale": [1, 1, 1],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 16757281 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "7BC911D6-E5BB-4825-A041-A803398CAC3A": {
+          "uuid": "7BC911D6-E5BB-4825-A041-A803398CAC3A",
+          "name": "State 1",
+          "position": [250, -250, 250],
+          "rotation": [0, 0, 0, "XYZ"],
+          "scale": [3, 3, 3],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 16757281 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "4D0910EA-C565-4579-9F1F-D21CC2191984": {
+          "uuid": "4D0910EA-C565-4579-9F1F-D21CC2191984",
+          "name": "Base State",
+          "position": [-250, 250, 250],
+          "rotation": [
+            0.8676917233971322,
+            0.42145066482793847,
+            -0.8099730098290481,
+            "XYZ"
+          ],
+          "scale": [1, 1, 1],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 16735658 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "78E409A4-DB08-464D-8885-A24DD28BE3E9": {
+          "uuid": "78E409A4-DB08-464D-8885-A24DD28BE3E9",
+          "name": "State 1",
+          "position": [-250, 250, 250],
+          "rotation": [
+            2.1069982677908543,
+            -0.46235304288217416,
+            -2.181661564992912,
+            "XYZ"
+          ],
+          "scale": [2, 2, 2],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 16735658 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "661C3DEA-389D-461B-AD6F-CE666DACDD4B": {
+          "uuid": "661C3DEA-389D-461B-AD6F-CE666DACDD4B",
+          "name": "Base State",
+          "position": [250, 250, -250],
+          "rotation": [
+            0.7329440444521085,
+            0.4164413315878087,
+            -0.3271628955023817,
+            "XYZ"
+          ],
+          "scale": [1, 1, 1],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 16729156 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "0E20422A-0604-4562-A2E7-90F9858F8658": {
+          "uuid": "0E20422A-0604-4562-A2E7-90F9858F8658",
+          "name": "State 1",
+          "position": [250, 250, -250],
+          "rotation": [
+            1.450600495930523,
+            0.942883330355291,
+            1.3962634015954638,
+            "XYZ"
+          ],
+          "scale": [2, 2, 2],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 16729156 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "B915050E-4C4D-4B2D-BF08-891CFF70FFB1": {
+          "uuid": "B915050E-4C4D-4B2D-BF08-891CFF70FFB1",
+          "name": "Base State",
+          "position": [-250, -257, -250],
+          "rotation": [
+            0.897365641541918,
+            -0.11382105428757096,
+            -0.47629870222469667,
+            "XYZ"
+          ],
+          "scale": [1, 1, 1],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 11687423 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        },
+        "1B965FA3-A450-4440-9BE7-0C6E8FE6EE66": {
+          "uuid": "1B965FA3-A450-4440-9BE7-0C6E8FE6EE66",
+          "name": "State 1",
+          "position": [-250, -257, -250],
+          "rotation": [
+            -1.6222505285325006,
+            0.8459262468168391,
+            1.1634700795393336,
+            "XYZ"
+          ],
+          "scale": [2, 2, 2],
+          "hiddenMatrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+          "geometry": { "width": 100, "height": 100, "depth": 100 },
+          "material": {
+            "layersList": [
+              {
+                "id": 0,
+                "type": "color",
+                "defines": {},
+                "uniforms": {
+                  "f0_alpha": { "value": 1 },
+                  "f0_mode": { "value": 0 },
+                  "f0_color": { "value": 11687423 }
+                }
+              },
+              {
+                "id": 1,
+                "type": "light",
+                "defines": {},
+                "uniforms": {
+                  "f1_alpha": { "value": 1 },
+                  "f1_mode": { "value": 0 }
+                }
+              },
+              {
+                "id": 2,
+                "type": "fresnel",
+                "defines": { "USE_LAYER_FRESNEL": "" },
+                "uniforms": {
+                  "f2_alpha": { "value": 0.5 },
+                  "f2_mode": { "value": 0 },
+                  "f2_bias": { "value": 0.1 },
+                  "f2_scale": { "value": 1 },
+                  "f2_intensity": { "value": 2 },
+                  "f2_factor": { "value": 1 },
+                  "f2_color": { "value": 16777215 }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "SPE_textures_uuid_map": {},
+    "KHR_lights_punctual": {
+      "lights": [
+        {
+          "type": "hemispheric",
+          "name": "Default Ambient Light",
+          "color": [0.8274509803921568, 0.8274509803921568, 0.8274509803921568],
+          "intensity": 0.75
+        },
+        {
+          "type": "directional",
+          "name": "Default Directional Light",
+          "color": [1, 1, 1],
+          "intensity": 0.75,
+          "extensions": {
+            "SPE_light_parameters": {
+              "shadows": {
+                "castShadow": false,
+                "shadowmapViewRight": 5,
+                "shadowmapViewLeft": -5,
+                "shadowmapViewTop": 5,
+                "shadowmapViewBottom": -5,
+                "shadowmapViewNear": 0.5,
+                "shadowmapViewFar": 500
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
